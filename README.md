@@ -1,6 +1,6 @@
 ### Hi, I'm Amilcar 🧑‍💻
 
-![Esta es una imagen](https://user-images.githubusercontent.com/92611010/157758473-a9ad808b-473a-448f-ba87-17ebf7b29033.png)
+![banner_animado](https://user-images.githubusercontent.com/92611010/157760759-e05dfedd-9e76-4dda-85ca-b46d2086627a.png)
 <!--
 **mkhi33/mkhi33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
