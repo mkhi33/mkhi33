@@ -1,5 +1,4 @@
 
-![banner_animado](https://user-images.githubusercontent.com/92611010/157760759-e05dfedd-9e76-4dda-85ca-b46d2086627a.png)
 ### Hi, I'm Amilcar 🧑‍💻
 I am a **systems engineering student**, I am currently in the fifth year of my degree.
 I am passionate about technology, I am always trying to learn and put into practice those things that catch my attention. I really like software development and I continue to train in a self-taught way to learn new technologies.
