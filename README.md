@@ -1,8 +1,38 @@
+Hi 👋 My name is Amilcar Rodriguez
+==================================
 
-### Hi, I'm Amilcar 🧑‍💻
-I am a **systems engineering student**, I am currently in the fifth year of my degree.
-I am passionate about technology, I am always trying to learn and put into practice those things that catch my attention. I really like software development and I continue to train in a self-taught way to learn new technologies.
+I am a systems engineering student
+----------------------------------
 
-**Apps and tools I use:**
+I am currently in the fifth year of my degree. I am passionate about technology, I am always trying to learn and put into practice those things that catch my attention. I really like software development and I continue to train in a self-taught way to learn new technologies.
 
-<img src = "https://user-images.githubusercontent.com/92611010/157795244-87eac071-60cf-40a3-82db-edf8dbbcada2.png" width = "25" height = "25" alt = "example"  />   <img src = "https://user-images.githubusercontent.com/92611010/157795257-b4574f05-8b91-479b-844e-7db84e63f02a.png" width = "25" height = "25" alt = "example"  />   <img src = "https://user-images.githubusercontent.com/92611010/157795266-eaeed326-298b-45cf-b6bc-ee15419f9d30.png" width = "25" height = "25" alt = "example"  />   <img src = "https://user-images.githubusercontent.com/92611010/157795271-0fb42c90-d4a6-488d-8878-7ada1abc3891.png" width = "25" height = "25" alt = "example"  />   <img src = "https://user-images.githubusercontent.com/92611010/157795275-d33972f4-fadf-4e92-8f3c-561d9b26b9e3.png" width = "25" height = "25" alt = "example"  />   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width = "25" height = "25" alt = "example"  />  <img src = "https://user-images.githubusercontent.com/92611010/157796416-777e2f10-8de5-468e-9b39-e47dc0db08bd.png" width = "25" height = "25" alt = "example"  />   <img src = "https://user-images.githubusercontent.com/92611010/157796425-5b2d3487-3adc-472a-980f-a55fb7512658.png" width = "25" height = "25" alt = "example"  />   <img src = "https://user-images.githubusercontent.com/92611010/157796432-0c0e57c1-b645-477a-8cd3-97e10b297058.png" width = "25" height = "25" alt = "example"  />
+*   ✉️  You can contact me at [aarodriguezv@unah.hn](mailto:aarodriguezv@unah.hn)
+*   🧠  I'm learning Reactjs### Skills<p align="left">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+                                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+                                <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+                                <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+                                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.dev.to/mkhi33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://discord.com/users/mkhi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/mkhi33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/mkhi_33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
