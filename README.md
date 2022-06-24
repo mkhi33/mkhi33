@@ -4,10 +4,9 @@ Hi 👋 My name is Amilcar Rodriguez
 I am a systems engineering student
 ----------------------------------
 
-I am currently in the fifth year of my degree. I am passionate about technology, I am always trying to learn and put into practice those things that catch my attention. I really like software development and I continue to train in a self-taught way to learn new technologies.
+Actualmente estoy en el quinto año de mi carrera. Soy un apasionado de la tecnología, siempre estoy tratando de aprender y poner en práctica aquellas cosas que me llaman la atención. Me gusta mucho el desarrollo de software y sigo formándome de forma autodidacta para aprender nuevas tecnologías.
 
-* ✉️  You can contact me at [aarodriguezv@unah.hn](mailto:aarodriguezv@unah.hn)
-* 🧠  I'm learning Reactjs
+* ✉️  puedes contactarme a [aarodriguezv@unah.hn](mailto:aarodriguezv@unah.hn)
 
 ### Skills
 
