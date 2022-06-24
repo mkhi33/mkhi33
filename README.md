@@ -1,7 +1,7 @@
-Hi 👋 My name is Amilcar Rodriguez
+Hola 👋 mi nombre es Amilcar Rodriguez
 ==================================
 
-I am a systems engineering student
+Soy estudiante de ingeniería en sistemas
 ----------------------------------
 
 Actualmente estoy en el quinto año de mi carrera. Soy un apasionado de la tecnología, siempre estoy tratando de aprender y poner en práctica aquellas cosas que me llaman la atención. Me gusta mucho el desarrollo de software y sigo formándome de forma autodidacta para aprender nuevas tecnologías.
