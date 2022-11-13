@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student about to graduate from the degree in systems engineering<br>Passionate about software development and learning new technologies.<br>
+Hello, my name is Amilcar Rodriguez, I am 23 years old and I am a student about to graduate from the Systems Engineering career. I currently reside in the city of Tegucigalpa, Honduras. I consider myself passionate about technology, mainly software development. In my free time I spend watching football, watching TV series, listening to music, learning new technologies and spending time with my friends and family.<br>
 
 
 ## 🌐 Socials:
