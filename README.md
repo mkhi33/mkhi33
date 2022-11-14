@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amilcar Rodríguez, I am 23 years old and I am a systems engineer.</p>
+<p align="left">My name is Amilcar Rodriguez, I am 23 years old and I am a systems engineer.</p>
 
 ###
 
