@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter<br>🎯 Goals: I want to learn English/ travel the world.<br>🎲 Portfolio: https://mkhi.vercel.app</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter<br>🎯 Goals: I want to learn English.<br>🎲 Portfolio: https://mkhi.vercel.app</p>
 
 ###
 
