@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter<br>🎯 Goals: I want to learn English.<br>🎲 Portfolio: https://mkhi.vercel.app</p>
+<p align="left">✨ Creating bugs since 2020<br>
+  📚 I'm currently learning ASP.NET<br>🎯 Goals: I want to learn English.
+ 
+  [🎲 Portafolio de proyectos](https://mkhi.dev)
+</p>
 
 ###
 
