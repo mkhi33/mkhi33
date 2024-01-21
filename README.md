@@ -17,6 +17,8 @@
 </p>
 
 ###
+[![trophy](https://github-profile-trophy.vercel.app/?username=mkhi33)](https://github.com/ryo-ma/github-profile-trophy)
+[![committers.top badge](https://user-badge.committers.top/honduras/mkhi33.svg)](https://user-badge.committers.top/honduras/mkhi33)
 
 <h2 align="left">I code with</h2>
 
